@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{ width: 400px;
+
+}
+body { background-image:url(imagenes/cocina.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+div{ 
+    text-align: center;
+    
+}
+.thirdDiv {   
+    
+         background-color: aqua;
+         width: 600px;
+         height: 500px;
+         padding: 50px;
+         border-radius: 10%;
+         color: chartreuse;
+         margin-left: auto;
+         margin-right: auto;
+}
+
+.spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
